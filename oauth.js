@@ -169,8 +169,8 @@ require([
       // Get a reference to the ArcGIS Map class
       map = bootstrapmap.create("mapDiv",{
         basemap: "national-geographic",
-        center:[-122.45, 37.77],
-        zoom:12,
+        center:[-98.5, 39.77],
+        zoom:4,
         scrollWheelZoom: false
       });
 
